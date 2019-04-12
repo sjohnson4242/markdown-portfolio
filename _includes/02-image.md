@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Three Generations](https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/50133373_10217995661786234_2787247296213942272_n.jpg?_nc_cat=104&_nc_ht=scontent-iad3-1.xx&oh=c8899abee5057c8865aef7e43ce4f471&oe=5D4A063D)
